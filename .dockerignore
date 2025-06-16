@@ -1,0 +1,28 @@
+# Dossiers compilés
+bin/
+obj/
+
+# Fichiers système
+*.user
+*.vspscc
+*.vssscc
+*.suo
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Logs
+*.log
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Node (si tu as un frontend dans le projet)
+node_modules/
+dist/
