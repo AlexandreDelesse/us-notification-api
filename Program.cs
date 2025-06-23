@@ -1,7 +1,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using PocMissionPush.Models;
+using PocMissionPush.Infrastructure.Persistance;
+using PocMissionPush.Subscriptions;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,12 +15,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddCustomSwagger();
-builder.Services.AddDbContext<SubscriptionContext>(opt => opt.UseInMemoryDatabase("SubscriptionList"));
-builder.Services.AddDbContext<TodoContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
+builder.Services.AddDbContext<SubscriptionDbContext>(opt => opt.UseInMemoryDatabase("SubscriptionList"));
 
-builder.Services.AddScoped<IPushSubscriptionRepository<Subscription>, SubscriptionRepository>();
+
+builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
 builder.Services.AddScoped<PushService>();
+builder.Services.AddScoped<SubscriptionService>();
 
 JwtSecurityTokenHandler.DefaultMapInboundClaims = false;
 builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", options =>
