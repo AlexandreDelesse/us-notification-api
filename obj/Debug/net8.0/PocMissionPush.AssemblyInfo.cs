@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocMissionPush")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d9089c31a143efea3ea6a74d924f4aaebca0f77")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.2+1d756111b53b31da6f7b74224a9351850632bd0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocMissionPush")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocMissionPush")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.1.2.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

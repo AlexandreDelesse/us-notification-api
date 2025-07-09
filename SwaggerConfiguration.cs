@@ -1,3 +1,4 @@
+using System.Reflection;
 using Microsoft.OpenApi.Models;
 
 public static class SwaggerConfiguration
@@ -6,10 +7,11 @@ public static class SwaggerConfiguration
     {
         services.AddSwaggerGen(options =>
         {
+            var version = Assembly.GetExecutingAssembly().GetName().Version?.ToString();
             options.SwaggerDoc("v1", new OpenApiInfo
             {
                 Title = "Notification API",
-                Version = "v1"
+                Version = version,
             });
 
             // Auth JWT Bearer
