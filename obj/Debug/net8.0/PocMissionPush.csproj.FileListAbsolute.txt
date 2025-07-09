@@ -581,3 +581,4 @@ D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dl
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.genruntimeconfig.cache
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.sourcelink.json

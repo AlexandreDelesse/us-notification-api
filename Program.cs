@@ -21,6 +21,7 @@ builder.Services.AddDbContext<SubscriptionDbContext>(opt => opt.UseInMemoryDatab
 builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
 builder.Services.AddScoped<PushService>();
 builder.Services.AddScoped<SubscriptionService>();
+builder.Services.AddScoped<WorkSessionService>();
 
 JwtSecurityTokenHandler.DefaultMapInboundClaims = false;
 builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", options =>
