@@ -289,8 +289,13 @@ D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/refint/PocMissionPush
 D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.pdb
 D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.genruntimeconfig.cache
 D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dll
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/publish/web.config
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/appsettings.Development.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/appsettings.json
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/publish/appsettings.Development.json
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/publish/appsettings.json
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/publish/PocMissionPush.deps.json
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/publish/PocMissionPush.runtimeconfig.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/PocMissionPush
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/PocMissionPush.deps.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/PocMissionPush.runtimeconfig.json
@@ -299,6 +304,7 @@ D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dl
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Azure.Core.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Azure.Identity.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Humanizer.dll
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.Build.dll
@@ -566,6 +572,7 @@ D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dl
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.csproj.CoreCompileInputs.cache
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.MvcApplicationPartsAssemblyInfo.cs
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.sourcelink.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/staticwebassets.build.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/staticwebassets.development.json
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/staticwebassets/msbuild.PocMissionPush.Microsoft.AspNetCore.StaticWebAssets.props
@@ -580,5 +587,4 @@ D:/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dl
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.pdb
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.genruntimeconfig.cache
 /Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/ref/PocMissionPush.dll
-/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
-/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/obj/Debug/net8.0/PocMissionPush.sourcelink.json
+/Users/alexandredelesse/workspace/Urgence sante/PocMissionPush/bin/Debug/net8.0/CsvHelper.dll
